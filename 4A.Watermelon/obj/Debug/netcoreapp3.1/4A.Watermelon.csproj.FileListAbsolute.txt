@@ -1,0 +1,13 @@
+F:\CodeforcesSolution\4A.Watermelon\bin\Debug\netcoreapp3.1\4A.Watermelon.exe
+F:\CodeforcesSolution\4A.Watermelon\bin\Debug\netcoreapp3.1\4A.Watermelon.deps.json
+F:\CodeforcesSolution\4A.Watermelon\bin\Debug\netcoreapp3.1\4A.Watermelon.runtimeconfig.json
+F:\CodeforcesSolution\4A.Watermelon\bin\Debug\netcoreapp3.1\4A.Watermelon.runtimeconfig.dev.json
+F:\CodeforcesSolution\4A.Watermelon\bin\Debug\netcoreapp3.1\4A.Watermelon.dll
+F:\CodeforcesSolution\4A.Watermelon\bin\Debug\netcoreapp3.1\4A.Watermelon.pdb
+F:\CodeforcesSolution\4A.Watermelon\obj\Debug\netcoreapp3.1\4A.Watermelon.csprojAssemblyReference.cache
+F:\CodeforcesSolution\4A.Watermelon\obj\Debug\netcoreapp3.1\4A.Watermelon.AssemblyInfoInputs.cache
+F:\CodeforcesSolution\4A.Watermelon\obj\Debug\netcoreapp3.1\4A.Watermelon.AssemblyInfo.cs
+F:\CodeforcesSolution\4A.Watermelon\obj\Debug\netcoreapp3.1\4A.Watermelon.csproj.CoreCompileInputs.cache
+F:\CodeforcesSolution\4A.Watermelon\obj\Debug\netcoreapp3.1\4A.Watermelon.dll
+F:\CodeforcesSolution\4A.Watermelon\obj\Debug\netcoreapp3.1\4A.Watermelon.pdb
+F:\CodeforcesSolution\4A.Watermelon\obj\Debug\netcoreapp3.1\4A.Watermelon.genruntimeconfig.cache
