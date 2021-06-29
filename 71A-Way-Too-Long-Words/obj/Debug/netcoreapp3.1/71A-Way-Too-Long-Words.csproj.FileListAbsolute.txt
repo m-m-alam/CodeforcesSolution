@@ -1,0 +1,13 @@
+F:\CodeforcesSolution\71A-Way-Too-Long-Words\bin\Debug\netcoreapp3.1\71A-Way-Too-Long-Words.exe
+F:\CodeforcesSolution\71A-Way-Too-Long-Words\bin\Debug\netcoreapp3.1\71A-Way-Too-Long-Words.deps.json
+F:\CodeforcesSolution\71A-Way-Too-Long-Words\bin\Debug\netcoreapp3.1\71A-Way-Too-Long-Words.runtimeconfig.json
+F:\CodeforcesSolution\71A-Way-Too-Long-Words\bin\Debug\netcoreapp3.1\71A-Way-Too-Long-Words.runtimeconfig.dev.json
+F:\CodeforcesSolution\71A-Way-Too-Long-Words\bin\Debug\netcoreapp3.1\71A-Way-Too-Long-Words.dll
+F:\CodeforcesSolution\71A-Way-Too-Long-Words\bin\Debug\netcoreapp3.1\71A-Way-Too-Long-Words.pdb
+F:\CodeforcesSolution\71A-Way-Too-Long-Words\obj\Debug\netcoreapp3.1\71A-Way-Too-Long-Words.csprojAssemblyReference.cache
+F:\CodeforcesSolution\71A-Way-Too-Long-Words\obj\Debug\netcoreapp3.1\71A-Way-Too-Long-Words.AssemblyInfoInputs.cache
+F:\CodeforcesSolution\71A-Way-Too-Long-Words\obj\Debug\netcoreapp3.1\71A-Way-Too-Long-Words.AssemblyInfo.cs
+F:\CodeforcesSolution\71A-Way-Too-Long-Words\obj\Debug\netcoreapp3.1\71A-Way-Too-Long-Words.csproj.CoreCompileInputs.cache
+F:\CodeforcesSolution\71A-Way-Too-Long-Words\obj\Debug\netcoreapp3.1\71A-Way-Too-Long-Words.dll
+F:\CodeforcesSolution\71A-Way-Too-Long-Words\obj\Debug\netcoreapp3.1\71A-Way-Too-Long-Words.pdb
+F:\CodeforcesSolution\71A-Way-Too-Long-Words\obj\Debug\netcoreapp3.1\71A-Way-Too-Long-Words.genruntimeconfig.cache
