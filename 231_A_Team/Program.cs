@@ -18,8 +18,6 @@ namespace _231_A_Team
                 {
                     result++;
                 }
-
-
             }
             Console.WriteLine(result);
         }

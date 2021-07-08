@@ -1,0 +1,13 @@
+F:\CodeforcesSolution\158_A_NextRound\bin\Debug\netcoreapp3.1\158_A_NextRound.exe
+F:\CodeforcesSolution\158_A_NextRound\bin\Debug\netcoreapp3.1\158_A_NextRound.deps.json
+F:\CodeforcesSolution\158_A_NextRound\bin\Debug\netcoreapp3.1\158_A_NextRound.runtimeconfig.json
+F:\CodeforcesSolution\158_A_NextRound\bin\Debug\netcoreapp3.1\158_A_NextRound.runtimeconfig.dev.json
+F:\CodeforcesSolution\158_A_NextRound\bin\Debug\netcoreapp3.1\158_A_NextRound.dll
+F:\CodeforcesSolution\158_A_NextRound\bin\Debug\netcoreapp3.1\158_A_NextRound.pdb
+F:\CodeforcesSolution\158_A_NextRound\obj\Debug\netcoreapp3.1\158_A_NextRound.AssemblyInfoInputs.cache
+F:\CodeforcesSolution\158_A_NextRound\obj\Debug\netcoreapp3.1\158_A_NextRound.AssemblyInfo.cs
+F:\CodeforcesSolution\158_A_NextRound\obj\Debug\netcoreapp3.1\158_A_NextRound.csproj.CoreCompileInputs.cache
+F:\CodeforcesSolution\158_A_NextRound\obj\Debug\netcoreapp3.1\158_A_NextRound.dll
+F:\CodeforcesSolution\158_A_NextRound\obj\Debug\netcoreapp3.1\158_A_NextRound.pdb
+F:\CodeforcesSolution\158_A_NextRound\obj\Debug\netcoreapp3.1\158_A_NextRound.genruntimeconfig.cache
+F:\CodeforcesSolution\158_A_NextRound\obj\Debug\netcoreapp3.1\158_A_NextRound.csprojAssemblyReference.cache
