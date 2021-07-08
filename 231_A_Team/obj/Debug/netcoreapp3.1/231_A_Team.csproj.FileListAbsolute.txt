@@ -1,0 +1,13 @@
+F:\CodeforcesSolution\231_A_Team\bin\Debug\netcoreapp3.1\231_A_Team.exe
+F:\CodeforcesSolution\231_A_Team\bin\Debug\netcoreapp3.1\231_A_Team.deps.json
+F:\CodeforcesSolution\231_A_Team\bin\Debug\netcoreapp3.1\231_A_Team.runtimeconfig.json
+F:\CodeforcesSolution\231_A_Team\bin\Debug\netcoreapp3.1\231_A_Team.runtimeconfig.dev.json
+F:\CodeforcesSolution\231_A_Team\bin\Debug\netcoreapp3.1\231_A_Team.dll
+F:\CodeforcesSolution\231_A_Team\bin\Debug\netcoreapp3.1\231_A_Team.pdb
+F:\CodeforcesSolution\231_A_Team\obj\Debug\netcoreapp3.1\231_A_Team.csprojAssemblyReference.cache
+F:\CodeforcesSolution\231_A_Team\obj\Debug\netcoreapp3.1\231_A_Team.AssemblyInfoInputs.cache
+F:\CodeforcesSolution\231_A_Team\obj\Debug\netcoreapp3.1\231_A_Team.AssemblyInfo.cs
+F:\CodeforcesSolution\231_A_Team\obj\Debug\netcoreapp3.1\231_A_Team.csproj.CoreCompileInputs.cache
+F:\CodeforcesSolution\231_A_Team\obj\Debug\netcoreapp3.1\231_A_Team.dll
+F:\CodeforcesSolution\231_A_Team\obj\Debug\netcoreapp3.1\231_A_Team.pdb
+F:\CodeforcesSolution\231_A_Team\obj\Debug\netcoreapp3.1\231_A_Team.genruntimeconfig.cache
