@@ -1,0 +1,12 @@
+F:\CodeforcesSolution\50_A_Domino piling\bin\Debug\netcoreapp3.1\50_A_Domino piling.exe
+F:\CodeforcesSolution\50_A_Domino piling\bin\Debug\netcoreapp3.1\50_A_Domino piling.deps.json
+F:\CodeforcesSolution\50_A_Domino piling\bin\Debug\netcoreapp3.1\50_A_Domino piling.runtimeconfig.json
+F:\CodeforcesSolution\50_A_Domino piling\bin\Debug\netcoreapp3.1\50_A_Domino piling.runtimeconfig.dev.json
+F:\CodeforcesSolution\50_A_Domino piling\bin\Debug\netcoreapp3.1\50_A_Domino piling.dll
+F:\CodeforcesSolution\50_A_Domino piling\bin\Debug\netcoreapp3.1\50_A_Domino piling.pdb
+F:\CodeforcesSolution\50_A_Domino piling\obj\Debug\netcoreapp3.1\50_A_Domino piling.AssemblyInfoInputs.cache
+F:\CodeforcesSolution\50_A_Domino piling\obj\Debug\netcoreapp3.1\50_A_Domino piling.AssemblyInfo.cs
+F:\CodeforcesSolution\50_A_Domino piling\obj\Debug\netcoreapp3.1\50_A_Domino piling.csproj.CoreCompileInputs.cache
+F:\CodeforcesSolution\50_A_Domino piling\obj\Debug\netcoreapp3.1\50_A_Domino piling.dll
+F:\CodeforcesSolution\50_A_Domino piling\obj\Debug\netcoreapp3.1\50_A_Domino piling.pdb
+F:\CodeforcesSolution\50_A_Domino piling\obj\Debug\netcoreapp3.1\50_A_Domino piling.genruntimeconfig.cache

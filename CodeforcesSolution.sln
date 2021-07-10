@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4A.Watermelon", "4A.Waterme
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "71A-Way-Too-Long-Words", "71A-Way-Too-Long-Words\71A-Way-Too-Long-Words.csproj", "{7589549C-E772-4EBD-A1B5-11F2112E5651}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "231_A_Team", "231_A_Team\231_A_Team.csproj", "{0EFB3CE7-8A17-4F4C-93E3-579493A458C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "231_A_Team", "231_A_Team\231_A_Team.csproj", "{0EFB3CE7-8A17-4F4C-93E3-579493A458C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "158_A_NextRound", "158_A_NextRound\158_A_NextRound.csproj", "{BCA5D8AC-F8FA-40E5-A97A-9A287BAFAC85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "158_A_NextRound", "158_A_NextRound\158_A_NextRound.csproj", "{BCA5D8AC-F8FA-40E5-A97A-9A287BAFAC85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "50_A_Domino piling", "50_A_Domino piling\50_A_Domino piling.csproj", "{ED5D8E90-FBDF-4DE3-A9F7-E8F2C802061F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{BCA5D8AC-F8FA-40E5-A97A-9A287BAFAC85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCA5D8AC-F8FA-40E5-A97A-9A287BAFAC85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCA5D8AC-F8FA-40E5-A97A-9A287BAFAC85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED5D8E90-FBDF-4DE3-A9F7-E8F2C802061F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED5D8E90-FBDF-4DE3-A9F7-E8F2C802061F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED5D8E90-FBDF-4DE3-A9F7-E8F2C802061F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED5D8E90-FBDF-4DE3-A9F7-E8F2C802061F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

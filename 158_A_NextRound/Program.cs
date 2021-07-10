@@ -17,7 +17,6 @@ namespace _158_A_NextRound
                 {
                     nextRound++;
                 }
-
             }
             Console.WriteLine(nextRound);
         }
