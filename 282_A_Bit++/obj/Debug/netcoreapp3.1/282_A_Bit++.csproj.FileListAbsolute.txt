@@ -1,0 +1,12 @@
+F:\CodeforcesSolution\282_A_Bit++\bin\Debug\netcoreapp3.1\282_A_Bit++.exe
+F:\CodeforcesSolution\282_A_Bit++\bin\Debug\netcoreapp3.1\282_A_Bit++.deps.json
+F:\CodeforcesSolution\282_A_Bit++\bin\Debug\netcoreapp3.1\282_A_Bit++.runtimeconfig.json
+F:\CodeforcesSolution\282_A_Bit++\bin\Debug\netcoreapp3.1\282_A_Bit++.runtimeconfig.dev.json
+F:\CodeforcesSolution\282_A_Bit++\bin\Debug\netcoreapp3.1\282_A_Bit++.dll
+F:\CodeforcesSolution\282_A_Bit++\bin\Debug\netcoreapp3.1\282_A_Bit++.pdb
+F:\CodeforcesSolution\282_A_Bit++\obj\Debug\netcoreapp3.1\282_A_Bit++.AssemblyInfoInputs.cache
+F:\CodeforcesSolution\282_A_Bit++\obj\Debug\netcoreapp3.1\282_A_Bit++.AssemblyInfo.cs
+F:\CodeforcesSolution\282_A_Bit++\obj\Debug\netcoreapp3.1\282_A_Bit++.csproj.CoreCompileInputs.cache
+F:\CodeforcesSolution\282_A_Bit++\obj\Debug\netcoreapp3.1\282_A_Bit++.dll
+F:\CodeforcesSolution\282_A_Bit++\obj\Debug\netcoreapp3.1\282_A_Bit++.pdb
+F:\CodeforcesSolution\282_A_Bit++\obj\Debug\netcoreapp3.1\282_A_Bit++.genruntimeconfig.cache

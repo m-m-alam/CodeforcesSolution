@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "282_A_Bit++/1.0.0": {
+        "runtime": {
+          "282_A_Bit++.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "282_A_Bit++/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
