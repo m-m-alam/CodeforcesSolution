@@ -6,28 +6,19 @@ namespace _263_A_Beautiful_Matrix
     {
         static void Main(string[] args)
         {
-            int[,] x = new int[5, 5];
-            for(int i = 0; i < 5; i++)
-            {
-                for(int j = 0; j < 5; j++)
-                {
-                     x[i,j] = Int16.Parse(Console.ReadLine());
-                }
-                //Console.WriteLine();
-            }
             for (int i = 0; i < 5; i++)
             {
+                string input = Console.ReadLine();
+                string[] value = input.Split(' ');
                 for (int j = 0; j < 5; j++)
                 {
-                     if(x[i,j] == 1)
+                    if (value[j] == "1")
                     {
-                        var result =   2-i + 2 - j;
-                        Console.WriteLine(result);
+                        Console.WriteLine(Math.Abs(i - 2) + Math.Abs(j - 2));
+                        return;
                     }
                 }
             }
-
-            //Console.WriteLine();
         }
     }
 }
