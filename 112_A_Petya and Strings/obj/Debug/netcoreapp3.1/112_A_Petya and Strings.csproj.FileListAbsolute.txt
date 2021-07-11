@@ -1,0 +1,12 @@
+F:\CodeforcesSolution\112_A_Petya and Strings\bin\Debug\netcoreapp3.1\112_A_Petya and Strings.exe
+F:\CodeforcesSolution\112_A_Petya and Strings\bin\Debug\netcoreapp3.1\112_A_Petya and Strings.deps.json
+F:\CodeforcesSolution\112_A_Petya and Strings\bin\Debug\netcoreapp3.1\112_A_Petya and Strings.runtimeconfig.json
+F:\CodeforcesSolution\112_A_Petya and Strings\bin\Debug\netcoreapp3.1\112_A_Petya and Strings.runtimeconfig.dev.json
+F:\CodeforcesSolution\112_A_Petya and Strings\bin\Debug\netcoreapp3.1\112_A_Petya and Strings.dll
+F:\CodeforcesSolution\112_A_Petya and Strings\bin\Debug\netcoreapp3.1\112_A_Petya and Strings.pdb
+F:\CodeforcesSolution\112_A_Petya and Strings\obj\Debug\netcoreapp3.1\112_A_Petya and Strings.AssemblyInfoInputs.cache
+F:\CodeforcesSolution\112_A_Petya and Strings\obj\Debug\netcoreapp3.1\112_A_Petya and Strings.AssemblyInfo.cs
+F:\CodeforcesSolution\112_A_Petya and Strings\obj\Debug\netcoreapp3.1\112_A_Petya and Strings.csproj.CoreCompileInputs.cache
+F:\CodeforcesSolution\112_A_Petya and Strings\obj\Debug\netcoreapp3.1\112_A_Petya and Strings.dll
+F:\CodeforcesSolution\112_A_Petya and Strings\obj\Debug\netcoreapp3.1\112_A_Petya and Strings.pdb
+F:\CodeforcesSolution\112_A_Petya and Strings\obj\Debug\netcoreapp3.1\112_A_Petya and Strings.genruntimeconfig.cache

@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "231_A_Team", "231_A_Team\23
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "158_A_NextRound", "158_A_NextRound\158_A_NextRound.csproj", "{BCA5D8AC-F8FA-40E5-A97A-9A287BAFAC85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "50_A_Domino piling", "50_A_Domino piling\50_A_Domino piling.csproj", "{ED5D8E90-FBDF-4DE3-A9F7-E8F2C802061F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "50_A_Domino piling", "50_A_Domino piling\50_A_Domino piling.csproj", "{ED5D8E90-FBDF-4DE3-A9F7-E8F2C802061F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "282_A_Bit++", "282_A_Bit++\282_A_Bit++.csproj", "{706A35FF-BF7A-4834-A340-325D73B8B58E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "282_A_Bit++", "282_A_Bit++\282_A_Bit++.csproj", "{706A35FF-BF7A-4834-A340-325D73B8B58E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "112_A_Petya and Strings", "112_A_Petya and Strings\112_A_Petya and Strings.csproj", "{C8C17408-47C7-41A6-B29E-7926188D6D5E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{706A35FF-BF7A-4834-A340-325D73B8B58E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{706A35FF-BF7A-4834-A340-325D73B8B58E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{706A35FF-BF7A-4834-A340-325D73B8B58E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8C17408-47C7-41A6-B29E-7926188D6D5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8C17408-47C7-41A6-B29E-7926188D6D5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8C17408-47C7-41A6-B29E-7926188D6D5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8C17408-47C7-41A6-B29E-7926188D6D5E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
