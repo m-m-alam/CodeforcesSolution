@@ -7,15 +7,7 @@ namespace _112_A_Petya_and_Strings
         static void Main(string[] args)
         {
             var firsString = Console.ReadLine();
-            var secondString = Console.ReadLine();
-            //if (firsString == secondString)
-            //{
-            //    Console.WriteLine("0");
-            //}
-            //else if (firsString < secondString)
-            //{
-            //    Console.WriteLine("0");
-            //}
+            var secondString = Console.ReadLine();            
             var result = string.Compare(firsString.ToLower(), secondString.ToLower());
             Console.WriteLine(result);
         }

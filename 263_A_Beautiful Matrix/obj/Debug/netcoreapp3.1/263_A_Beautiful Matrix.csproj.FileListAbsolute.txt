@@ -1,0 +1,12 @@
+F:\CodeforcesSolution\263_A_Beautiful Matrix\bin\Debug\netcoreapp3.1\263_A_Beautiful Matrix.exe
+F:\CodeforcesSolution\263_A_Beautiful Matrix\bin\Debug\netcoreapp3.1\263_A_Beautiful Matrix.deps.json
+F:\CodeforcesSolution\263_A_Beautiful Matrix\bin\Debug\netcoreapp3.1\263_A_Beautiful Matrix.runtimeconfig.json
+F:\CodeforcesSolution\263_A_Beautiful Matrix\bin\Debug\netcoreapp3.1\263_A_Beautiful Matrix.runtimeconfig.dev.json
+F:\CodeforcesSolution\263_A_Beautiful Matrix\bin\Debug\netcoreapp3.1\263_A_Beautiful Matrix.dll
+F:\CodeforcesSolution\263_A_Beautiful Matrix\bin\Debug\netcoreapp3.1\263_A_Beautiful Matrix.pdb
+F:\CodeforcesSolution\263_A_Beautiful Matrix\obj\Debug\netcoreapp3.1\263_A_Beautiful Matrix.AssemblyInfoInputs.cache
+F:\CodeforcesSolution\263_A_Beautiful Matrix\obj\Debug\netcoreapp3.1\263_A_Beautiful Matrix.AssemblyInfo.cs
+F:\CodeforcesSolution\263_A_Beautiful Matrix\obj\Debug\netcoreapp3.1\263_A_Beautiful Matrix.csproj.CoreCompileInputs.cache
+F:\CodeforcesSolution\263_A_Beautiful Matrix\obj\Debug\netcoreapp3.1\263_A_Beautiful Matrix.dll
+F:\CodeforcesSolution\263_A_Beautiful Matrix\obj\Debug\netcoreapp3.1\263_A_Beautiful Matrix.pdb
+F:\CodeforcesSolution\263_A_Beautiful Matrix\obj\Debug\netcoreapp3.1\263_A_Beautiful Matrix.genruntimeconfig.cache
