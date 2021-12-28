@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\CodeforcesSolution\\50_A_Domino piling\\50_A_Domino piling.csproj": {}
+    "F:\\A-Z\\CodeforcesSolution\\50_A_Domino piling\\50_A_Domino piling.csproj": {}
   },
   "projects": {
-    "F:\\CodeforcesSolution\\50_A_Domino piling\\50_A_Domino piling.csproj": {
+    "F:\\A-Z\\CodeforcesSolution\\50_A_Domino piling\\50_A_Domino piling.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\CodeforcesSolution\\50_A_Domino piling\\50_A_Domino piling.csproj",
+        "projectUniqueName": "F:\\A-Z\\CodeforcesSolution\\50_A_Domino piling\\50_A_Domino piling.csproj",
         "projectName": "50_A_Domino piling",
-        "projectPath": "F:\\CodeforcesSolution\\50_A_Domino piling\\50_A_Domino piling.csproj",
+        "projectPath": "F:\\A-Z\\CodeforcesSolution\\50_A_Domino piling\\50_A_Domino piling.csproj",
         "packagesPath": "C:\\Users\\Dcode\\.nuget\\packages\\",
-        "outputPath": "F:\\CodeforcesSolution\\50_A_Domino piling\\obj\\",
+        "outputPath": "F:\\A-Z\\CodeforcesSolution\\50_A_Domino piling\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dcode\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
