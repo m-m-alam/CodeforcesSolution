@@ -7,7 +7,7 @@ namespace _339_A_Helpful_Maths
         static void Main(string[] args)
         {
             var math = Console.ReadLine().Split("+");            
-             Array.Sort(math);
+            Array.Sort(math);
             var result = string.Join("+", math);
             Console.WriteLine(result);
         }
